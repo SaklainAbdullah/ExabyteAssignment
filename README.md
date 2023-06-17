@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+
+<img width="595" alt="Screen Shot 2023-06-17 at 3 48 55 PM" src="https://github.com/SaklainAbdullah/ExabyteAssignment/assets/76647264/1af039d6-d8c4-4831-bb66-e9be5ae4c19a">
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -1,5 +1,10 @@
+<img width="485" alt="Screen Shot 2023-06-17 at 4 30 32 PM" src="https://github.com/SaklainAbdullah/ExabyteAssignment/assets/76647264/fd7069f2-5590-4811-ad8f-e10bd5be5f03">
+<img width="484" alt="Screen Shot 2023-06-17 at 4 30 39 PM" src="https://github.com/SaklainAbdullah/ExabyteAssignment/assets/76647264/1ee64182-c978-483f-88f9-0dd2401f9dc8">
 
-<img width="595" alt="Screen Shot 2023-06-17 at 3 48 55 PM" src="https://github.com/SaklainAbdullah/ExabyteAssignment/assets/76647264/1af039d6-d8c4-4831-bb66-e9be5ae4c19a">
+<img width="482" alt="Screen Shot 2023-06-17 at 4 30 46 PM" src="https://github.com/SaklainAbdullah/ExabyteAssignment/assets/76647264/1f0cac17-f1f7-43a4-bc50-6839c7ada7d0">
+<img width="455" alt="Screen Shot 2023-06-17 at 4 30 51 PM" src="https://github.com/SaklainAbdullah/ExabyteAssignment/assets/76647264/bb92258a-8d61-498f-97e0-01c4e1f8389d">
+
+
 
 ## Getting Started with Create React App
 
